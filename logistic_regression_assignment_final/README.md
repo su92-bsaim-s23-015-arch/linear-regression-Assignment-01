@@ -77,9 +77,9 @@ streamlit run app.py
 ##  Screenshots
 
 ### Confusion Matrix
-![Confusion Matrix](logistic_regression_assignment_final/model/plots/confusion_matrix.png?raw=true)
+![Confusion Matrix](model/plots/confusion_matrix.png?raw=true)
 
-![Feature Distributions](logistic_regression_assignment_final/model/plots/feature_distributions.png?raw=true)
+![Feature Distributions](model/plots/feature_distributions.png?raw=true)
 ---
 
 ##  Tech Stack
