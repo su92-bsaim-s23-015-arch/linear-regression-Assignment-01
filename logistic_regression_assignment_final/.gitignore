@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+*.pyo
+saved_model/
+model/plots/
+.env
+.venv/
+venv/
+*.egg-info/
+dist/
+build/
