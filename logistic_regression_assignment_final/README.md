@@ -6,7 +6,7 @@
 
 ---
 
-## 📌 Overview
+##  Overview
 
 This project implements **Logistic Regression** to classify Iris flowers into three species:
 - Setosa
@@ -15,7 +15,7 @@ This project implements **Logistic Regression** to classify Iris flowers into th
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 logistic_regression_assignment/
@@ -35,7 +35,7 @@ logistic_regression_assignment/
 
 ---
 
-## ⚙️ How to Run
+##  How to Run
 
 ### Step 1: Install dependencies
 ```bash
@@ -56,7 +56,7 @@ streamlit run app.py
 
 ---
 
-## 📊 Results
+##  Results
 
 | Metric    | Score  |
 |-----------|--------|
@@ -67,17 +67,20 @@ streamlit run app.py
 
 ---
 
-## 🛠️ Preprocessing Steps
+##  Preprocessing Steps
 
 1. **Missing value handling** — filled with column mean (none in Iris)
 2. **Feature scaling** — StandardScaler normalization
 3. **Train/Test split** — 80% train, 20% test (stratified)
 
 ---
-
 ## 📸 Screenshots
 
-After running training, plots are saved in `model/plots/`.
+### Confusion Matrix
+![Confusion Matrix](logistic_regression_assignment_final/model/plots/confusion_matrix.png)
+
+### Feature Distributions
+![Feature Distributions](logistic_regression_assignment_final/model/plots/feature_distributions.png)
 
 ---
 
