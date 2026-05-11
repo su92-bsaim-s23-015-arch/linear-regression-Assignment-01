@@ -74,7 +74,7 @@ streamlit run app.py
 3. **Train/Test split** — 80% train, 20% test (stratified)
 
 ---
-## 📸 Screenshots
+##  Screenshots
 
 ### Confusion Matrix
 ![Confusion Matrix](logistic_regression_assignment_final/model/plots/confusion_matrix.png)
@@ -84,7 +84,7 @@ streamlit run app.py
 
 ---
 
-## 🔗 Tech Stack
+##  Tech Stack
 
 - Python 3.10+
 - scikit-learn
